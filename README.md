@@ -10,9 +10,9 @@ This repository is part of the [Machine Learning School](https://www.ml.school) 
 
 The best way to clone and run the source code from this repository is using a Development Container.
 
-[![Open in Dev Containers](https://img.shields.io/static/v1?label=Dev%20Containers&message=Open&color=blue)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/svpino/ml.school)
+[![Open in Dev Containers](https://img.shields.io/static/v1?label=Dev%20Containers&message=Open&color=blue)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/galtza/ml.school)
 
-Most Integrated Development Environments support Development Containers. If you have Visual Studio Code and Docker installed, you can click the badge above or [this link](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/svpino/ml.school) to automatically install the [Dev Containers extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers), clone the repository into a container volume, and spin up a container.
+Most Integrated Development Environments support Development Containers. If you have Visual Studio Code and Docker installed, you can click the badge above or [this link](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/galtza/ml.school) to automatically install the [Dev Containers extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers), clone the repository into a container volume, and spin up a container.
 
 A Development Container is a Docker container configured as a fully functional development environment isolated from your operating system. You can use your IDE to edit, build, and run the project without spending time setting up your local environment or worrying about altering it.
 
@@ -26,7 +26,7 @@ After opening the project on IDX, click on the "Machine Learning School" extensi
 
 An alternative way to run the project is using Google's Project IDX. Clicking the button below will create and configure a development environment you can access directly from your browser:
 
-<a href="https://idx.google.com/new?template=https%3A%2F%2Fgithub.com%2Fsvpino%2Fml.school%2F">
+<a href="https://idx.google.com/new?template=https%3A%2F%2Fgithub.com%2Fgaltza%2Fml.school%2F">
   <img
     height="32"
     alt="Open in IDX"
@@ -40,7 +40,7 @@ After opening the project on IDX, click on the "Machine Learning School" extensi
 ## Running the project locally
 
 If you prefer to run the project on your local environment, you can start by 
-[forking](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) the [repository](https://github.com/svpino/ml.school) and [cloning](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) it on your computer. 
+[forking](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) the [repository](https://github.com/galtza/ml.school) and [cloning](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) it on your computer. 
 
 You can run the code on any Unix-based operating system (e.g., Ubuntu or macOS). If you are using Windows, install the [Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/about) (WSL).
 
